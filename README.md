@@ -1110,16 +1110,3 @@ plt.show()
 Thus, Linear Regression and other regression models were successfully applied for house price prediction, and their performance was compared using standard regression evaluation metrics.
 
 
-<img width="711" height="472" alt="WhatsApp Image 2026-11-02 at 10 29 03 AM" src="https://github.com/user-attachments/assets/e8dd1616-86a0-4311-8fd3-07914caa11dd" />
-<img width="717" height="497" alt="WhatsApp Image 2026-11-02 at 10 29 52 AM" src="https://github.com/user-attachments/assets/0afb8d23-2e29-4f5e-a458-73f633e7ba61" />
-<img width="730" height="487" alt="WhatsApp Image 2026-11-02 at 10 29 59 AM" src="https://github.com/user-attachments/assets/7ece798f-563d-48c2-95bc-67a00ec47522" />
-<img width="727" height="472" alt="WhatsApp Image 2026-11-02 at 10 30 05 AM" src="https://github.com/user-attachments/assets/f9ed5b93-6535-4ca7-9958-b3fbc36e1ad2" />
-<img width="692" height="510" alt="WhatsApp Image 2026-11-02 at 10 30 11 AM" src="https://github.com/user-attachments/assets/272f7b98-8925-4f70-9c28-93206fd042a5" />
-
-<img width="711" height="472" alt="WhatsApp Image 2026-11-02 at 10 29 03 AM" src="https://github.com/user-attachments/assets/e8dd1616-86a0-4311-8fd3-07914caa11dd" />
-<img width="717" height="497" alt="WhatsApp Image 2026-11-02 at 10 29 52 AM" src="https://github.com/user-attachments/assets/0afb8d23-2e29-4f5e-a458-73f633e7ba61" />
-<img width="730" height="487" alt="WhatsApp Image 2026-11-02 at 10 29 59 AM" src="https://github.com/user-attachments/assets/7ece798f-563d-48c2-95bc-67a00ec47522" />
-<img width="727" height="472" alt="WhatsApp Image 2026-11-02 at 10 30 05 AM" src="https://github.com/user-attachments/assets/f9ed5b93-6535-4ca7-9958-b3fbc36e1ad2" />
-
-
-Thus, Linear Regression and other regression models were successfully applied for house price prediction, and their performance was compared using standard regression evaluation metrics.
