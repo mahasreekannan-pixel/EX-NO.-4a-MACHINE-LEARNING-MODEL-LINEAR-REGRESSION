@@ -1122,3 +1122,4 @@ Thus, Linear Regression and other regression models were successfully applied fo
 <img width="727" height="472" alt="WhatsApp Image 2026-11-02 at 10 30 05 AM" src="https://github.com/user-attachments/assets/f9ed5b93-6535-4ca7-9958-b3fbc36e1ad2" />
 
 
+Thus, Linear Regression and other regression models were successfully applied for house price prediction, and their performance was compared using standard regression evaluation metrics.
