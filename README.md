@@ -387,9 +387,6 @@ results_df = pd.DataFrame(
 results_df.sort_values(
     by="RMSE"
 )
-
-##  MODEL COMPARISON
-<img width="601" height="250" alt="image" src="https://github.com/user-attachments/assets/bca8dfef-1052-4e92-90e1-0f6356888be5" />
 		
 
 ### Comparison Criteria
